@@ -1,0 +1,17 @@
+Y:\Users\Matheus\source\repos\ValorantSorteio\bin\Debug\net6.0-windows\ValorantSorteio.exe
+Y:\Users\Matheus\source\repos\ValorantSorteio\bin\Debug\net6.0-windows\ValorantSorteio.deps.json
+Y:\Users\Matheus\source\repos\ValorantSorteio\bin\Debug\net6.0-windows\ValorantSorteio.runtimeconfig.json
+Y:\Users\Matheus\source\repos\ValorantSorteio\bin\Debug\net6.0-windows\ValorantSorteio.dll
+Y:\Users\Matheus\source\repos\ValorantSorteio\bin\Debug\net6.0-windows\ValorantSorteio.pdb
+Y:\Users\Matheus\source\repos\ValorantSorteio\obj\Debug\net6.0-windows\ValorantSorteio.csproj.AssemblyReference.cache
+Y:\Users\Matheus\source\repos\ValorantSorteio\obj\Debug\net6.0-windows\ValorantSorteio.Tela.resources
+Y:\Users\Matheus\source\repos\ValorantSorteio\obj\Debug\net6.0-windows\ValorantSorteio.csproj.GenerateResource.cache
+Y:\Users\Matheus\source\repos\ValorantSorteio\obj\Debug\net6.0-windows\ValorantSorteio.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Users\Matheus\source\repos\ValorantSorteio\obj\Debug\net6.0-windows\ValorantSorteio.AssemblyInfoInputs.cache
+Y:\Users\Matheus\source\repos\ValorantSorteio\obj\Debug\net6.0-windows\ValorantSorteio.AssemblyInfo.cs
+Y:\Users\Matheus\source\repos\ValorantSorteio\obj\Debug\net6.0-windows\ValorantSorteio.csproj.CoreCompileInputs.cache
+Y:\Users\Matheus\source\repos\ValorantSorteio\obj\Debug\net6.0-windows\ValorantSorteio.dll
+Y:\Users\Matheus\source\repos\ValorantSorteio\obj\Debug\net6.0-windows\refint\ValorantSorteio.dll
+Y:\Users\Matheus\source\repos\ValorantSorteio\obj\Debug\net6.0-windows\ValorantSorteio.pdb
+Y:\Users\Matheus\source\repos\ValorantSorteio\obj\Debug\net6.0-windows\ValorantSorteio.genruntimeconfig.cache
+Y:\Users\Matheus\source\repos\ValorantSorteio\obj\Debug\net6.0-windows\ref\ValorantSorteio.dll
